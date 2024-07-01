@@ -1,2 +1,2 @@
-# fencing_video_highlight
-Tool to fetch a video of a fencing bout on youtube and extract its highlights
+# fencing_video_review
+Website to enhance the video review of a fencing bout
